@@ -27,9 +27,9 @@ Turning imagination into reality 🚀
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vasanthbalamurugan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vasanthbalamurugan&theme=vue-dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthbalamurugan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthbalamurugan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=vasanthbalamurugan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=vasanthbalamurugan&theme=vue-dark&hide_border=false) 
 
 
 
