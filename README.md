@@ -1,5 +1,4 @@
-[![(https://visitcount.itsvg.in/api?id=vasanthbalamurugan&icon=4&color=13)]
-[![(https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=vasanthbalamurugan&icon=4&color=13)][!(https://visitcount.itsvg.in)]
 
 
 # Hi👋, I'm Vasanthbalamurugan
