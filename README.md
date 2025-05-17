@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=vasanthbalamurugan&icon=4&color=13)][!(https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=vasanthbalamurugan&icon=4&color=13)](https://visitcount.itsvg.in)]
 
 
 # Hi👋, I'm Vasanthbalamurugan
@@ -13,7 +13,7 @@ Turning imagination into reality 🚀
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ vasanth-b-6987a6240) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vasanth-b-6987a6240) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
